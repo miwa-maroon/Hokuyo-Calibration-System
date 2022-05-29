@@ -1,6 +1,21 @@
 # Hokuyo-Calibration-System
 
-# 3pages
+# How to get done calibration
+1. install calibration tox
+2. plug Hokuyo
+3. set ip address, resolution.
+4. Open in a projection page to project visual by projecter
+5. make square projection on the wall or floor in a correction page
+6. set objects randomly on the projected wall or floor
+7. lay cursors over objects in calibration page
+8. click the calibration
+9. Make minor adjustments
+
+
+others
+A JSON button is a option to connect to other platforms. 
+
+# 3 features
 System to systematize and accelerate the process from calibration of Hokuyo sensor to projection
 
 ## PROJECTION
