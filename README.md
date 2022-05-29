@@ -1,6 +1,6 @@
 # Hokuyo-Calibration-System
 
-# How to get done calibration
+## How to get done calibration
 1. install calibration tox
 2. plug Hokuyo
 3. set ip address, resolution.
