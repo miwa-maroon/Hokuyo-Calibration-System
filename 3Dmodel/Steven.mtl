@@ -1,0 +1,74 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Hair_diffuse.png
+map_Ks Steven_Hair_specular.png
+bump Steven_Hair_normal.png
+map_Ns Steven_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Body_diffuse.png
+map_Ks Steven_Body_specular.png
+bump Steven_Body_normal.png
+map_Ns Steven_Body_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Bottom_diffuse.png
+map_Ks Steven_Bottom_specular.png
+bump Steven_Bottom_normal.png
+map_Ns Steven_Bottom_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Top_diffuse.png
+map_Ks Steven_Top_specular.png
+bump Steven_Top_normal.png
+map_Ns Steven_Top_gloss.png
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Beard_diffuse.png
+map_Ks Steven_Beard_specular.png
+bump Steven_Beard_normal.png
+map_Ns Steven_Beard_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Steven_Shoes_diffuse.png
+map_Ks Steven_Shoes_specular.png
+bump Steven_Shoes_normal.png
+map_Ns Steven_Shoes_gloss.png
+

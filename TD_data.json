@@ -1,0 +1,35 @@
+{
+    "draw": {
+        "x_res": "1280",
+        "y_res": "800"
+    },
+    "calib": {
+        "icp_x": "-0.06910488",
+        "icp_y": "-0.3180705",
+        "slp_x": "0.3528427",
+        "slp_y": "0.3848474"
+    },
+    "hokuyo": {
+        "start_angle": "55",
+        "end_angle": "225",
+        "pitch": "0.25",
+        "network_address": "192.168.0.10"
+    },
+    "zoneLU": {
+        "x_LU": "-0.2319",
+        "y_LU": "0.05518"
+    },
+    "zoneRD": {
+        "x_RD": "0.04625",
+        "y_RD": "-0.1129"
+    },
+    "blobtrack": {
+        "switch": "0",
+        "x_rect_area_size": "2.9",
+        "y_rect_area_size": "2.3",
+        "x_rect_area_center": "0",
+        "y_rect_area_center": "0.5",
+        "step_thing": "10",
+        "threshold": "0.143"
+    }
+}
